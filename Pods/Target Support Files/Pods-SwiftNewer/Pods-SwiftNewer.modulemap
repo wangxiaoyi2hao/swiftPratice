@@ -1,0 +1,6 @@
+framework module Pods_SwiftNewer {
+  umbrella header "Pods-SwiftNewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
